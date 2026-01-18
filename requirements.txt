@@ -1,0 +1,12 @@
+
+---
+
+# 📦 requirements.txt (Create this file)
+
+```txt
+numpy
+pandas
+scikit-learn
+nltk
+matplotlib
+seaborn
