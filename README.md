@@ -29,6 +29,8 @@ The model is trained on a labeled dataset containing:
 - **Real news articles**
 - **Fake news articles**
 
+Note* The model performs best on structured news-style articles and may misclassify short or generic text due to dataset bias.
+
 > Dataset source can be Kaggle or any publicly available fake news dataset.
 
 ---
