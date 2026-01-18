@@ -33,6 +33,18 @@ Note* The model performs best on structured news-style articles and may misclass
 
 > Dataset source can be Kaggle or any publicly available fake news dataset.
 
+
+📁 The folder Structure
+fake_news_detector/
+│
+├── app.py
+├── Fake.csv
+├── True.csv
+├── requirements.txt
+└── src/
+    ├── __init__.py
+    └── model.py
+
 ---
 
 ## ⚙️ Installation & Setup
