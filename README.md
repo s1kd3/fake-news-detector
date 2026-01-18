@@ -39,3 +39,17 @@ The model is trained on a labeled dataset containing:
 ```bash
 git clone https://github.com/your-username/fake-news-detector.git
 cd fake-news-detector
+2️⃣ Create virtual environment
+python -m venv venv
+source venv/bin/activate   # Linux / Mac
+venv\Scripts\activate      # Windows
+3️⃣ Install dependencies
+pip install -r requirements.txt
+▶️ How to Run
+## ▶️ How to Run
+
+### 1️⃣ Navigate to the project directory
+```bash
+cd fake-news-detector
+2️⃣ Run the Streamlit application
+streamlit run app.py
