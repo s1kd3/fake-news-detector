@@ -75,3 +75,21 @@ cd fake-news-detector
 
 2️⃣ Run the Streamlit application
 streamlit run app.py
+
+
+
+
+## 🚀 Deployment on Hugging Face
+
+This Fake News Detector is deployed using **Hugging Face Spaces**.
+
+### Tech Stack
+- Python
+- Scikit-learn
+- NLTK
+- Streamlit
+
+### Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
